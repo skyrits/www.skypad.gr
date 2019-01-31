@@ -1,0 +1,13 @@
+body {
+    background: #333;
+    color: lightgray;
+}
+a {
+    color: darkseagreen;
+}
+.holder {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
